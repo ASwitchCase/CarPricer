@@ -1,0 +1,15 @@
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\bin\Debug\net7.0\CarPricer.exe
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\bin\Debug\net7.0\CarPricer.deps.json
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\bin\Debug\net7.0\CarPricer.runtimeconfig.json
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\bin\Debug\net7.0\CarPricer.dll
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\bin\Debug\net7.0\CarPricer.pdb
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.csproj.AssemblyReference.cache
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.AssemblyInfoInputs.cache
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.AssemblyInfo.cs
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.csproj.CoreCompileInputs.cache
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.dll
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\refint\CarPricer.dll
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.pdb
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\CarPricer.genruntimeconfig.cache
+C:\Users\adams\OneDrive\Desktop\MyApps\CSharp\CarPricer\CarPricer\obj\Debug\net7.0\ref\CarPricer.dll
